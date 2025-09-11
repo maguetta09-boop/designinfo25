@@ -1,4 +1,4 @@
-# designinfo25
+# Design-info-25
 
 Designe d'information 2025
 Cet espace est dedie au cours **designe d'information**.
